@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "img_url": "https://i.ibb.co/jJFkyzL/381312.webp",
+      "name": "Virat Kohli",
+      "country": "India",
+      "playertype": "Batsman",
+      "bat": "Right-hand bat",
+      "bowl": "N/A",
+      "price": 45000
+    },
+    {
+      "id": 2,
+      "img_url": "https://i.ibb.co/M9FvYgt/image.png",
+      "name": "Ben Stokes",
+      "country": "England",
+      "playertype": "All-rounder",
+      "bat": "Left-hand bat",
+      "bowl": "Right-arm fast",
+      "price": 48000
+    },
+    {
+      "id": 3,
+      "img_url": "https://i.ibb.co/pQvTdgs/image.png",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "playertype": "Batsman",
+      "bat": "Right-hand bat",
+      "bowl": "Off-spin",
+      "price": 37000
+    },
+    {
+      "id": 4,
+      "img_url": "https://i.ibb.co/swnSKmw/image.png",
+      "name": "Steve Smith",
+      "country": "Australia",
+      "playertype": "Batsman",
+      "bat": "Right-hand bat",
+      "bowl": "N/A",
+      "price": 43000
+    },
+    {
+      "id": 5,
+      "img_url": "https://i.ibb.co/5BwY8r5/image.png",
+      "name": "Ravindra Jadeja",
+      "country": "India",
+      "playertype": "All-rounder",
+      "bat": "Left-hand bat",
+      "bowl": "Left-arm",
+      "price": 39000
+    },
+    {
+      "id": 6,
+      "img_url": "https://i.ibb.co/CKzrQpP/image.png",
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "playertype": "Batsman",
+      "bat": "Right-hand bat",
+      "bowl": "N/A",
+      "price": 42000
+    },
+    {
+      "id": 7,
+      "img_url": "https://i.ibb.co/0cBzX8W/image.png",
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "playertype": "All-rounder",
+      "bat": "Right-hand bat",
+      "bowl": "Leg-spin",
+      "price": 35000
+    },
+    {
+      "id": 8,
+      "img_url": "https://crictoday.com/wp-content/uploads/2023/02/warner_player_of_the_tournamen_0_1200x768-1-1.jpg",
+      "name": "David Warner",
+      "country": "Australia",
+      "playertype": "Batsman",
+      "bat": "Left-hand bat",
+      "bowl": "N/A",
+      "price": 46000
+    },
+    {
+      "id": 9,
+      "img_url": "https://static.independent.co.uk/2023/12/22/18/f11aeea2c90d8b6c4af90272cbdf0d3dY29udGVudHNlYXJjaGFwaSwxNzAzMzQ5NzAx-2.74098669.jpg",
+      "name": "Jos Buttler",
+      "country": "England",
+      "playertype": "Batsman",
+      "bat": "Right-hand bat",
+      "bowl": "N/A",
+      "price": 41000
+    },
+    {
+      "id": 10,
+      "img_url": "https://crictoday.com/wp-content/uploads/2022/12/shikhar-dhawan-biography-1-1024x576.jpg",
+      "name": "Shikhar Dhawan",
+      "country": "India",
+      "playertype": "Batsman",
+      "bat": "Left-hand bat",
+      "bowl": "N/A",
+      "price": 38000
+    },
+    {
+      "id": 11,
+      "img_url": "https://i.ibb.co/TmFjVM6/image.png",
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "playertype": "Bowler",
+      "bat": "Left-hand bat",
+      "bowl": "Left-arm fast",
+      "price": 33000
+    },
+    {
+      "id": 12,
+      "img_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/370200/370250.jpg",
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "playertype": "Bowler",
+      "bat": "Right-hand bat",
+      "bowl": "Right-arm fast",
+      "price": 50000
+    }
+  ]
